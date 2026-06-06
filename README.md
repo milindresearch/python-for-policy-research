@@ -79,8 +79,28 @@ All analyses, datasets, visualisations, and research outputs in this repository 
 
 Every claim, statistic, and analytical conclusion will be supported by identifiable and credible sources.
 
-## Current Progress
+## Future Portfolio Projects
 
+- Defence Budget Trend Analysis
+- Military Expenditure Forecasting
+- Strategic Supply Chain Risk Model
+- Indo-Pacific Defence Spending Dashboard
+- Defence Procurement Data Analysis
+- Economic Impact Assessment of Defence Manufacturing
+
+## Skills Under Development
+
+- Python
+- Pandas
+- NumPy
+- Data Visualisation
+- Econometrics
+- Statistical Analysis
+- Forecasting
+- Policy Analytics
+- Research Automation
+
+## Current Progress
 ### Python Foundations
 
 - [x] Day 01 – Variables and Data Types
