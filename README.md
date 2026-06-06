@@ -104,7 +104,7 @@ Every claim, statistic, and analytical conclusion will be supported by identifia
 ### Python Foundations
 
 - [x] Day 01 – Variables and Data Types
-- [ ] Day 02 – Lists and Dictionaries
+- [x] Day 02 – Lists and Dictionaries
 - [ ] Day 03 – Loops
 - [ ] Day 04 – Functions
 - [ ] Day 05 – File Handling
