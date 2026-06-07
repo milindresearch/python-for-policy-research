@@ -101,13 +101,22 @@ Every claim, statistic, and analytical conclusion will be supported by identifia
 - Research Automation
 
 ## Current Progress
+
 ### Python Foundations
 
 - [x] Day 01 – Variables and Data Types
 - [x] Day 02 – Lists and Dictionaries
-- [ ] Day 03 – Loops
-- [ ] Day 04 – Functions
-- [ ] Day 05 – File Handling
+- [x] Day 03 – Loops
+- [x] Day 04 – Functions
+- [x] Day 05 – File Handling
+
+## Data Analysis
+
+- [x] Day 01 – Pandas Basics
+- [x] Day 02 – DataFrame Analysis
+- [ ] Day 03 – CSV Files
+- [ ] Day 04 – Data Cleaning
+- [ ] Day 05 – Exploratory Data Analysis  
 
 ## Author
 
